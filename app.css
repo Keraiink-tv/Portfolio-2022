@@ -11,7 +11,10 @@
     }
 
     .info_container h1{
+        padding: 1rem;
         color: #c88d70;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
     }
 }
 
