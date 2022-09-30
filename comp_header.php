@@ -13,10 +13,7 @@
 
 <body>
     <div class="frontside_navigation">
-        <h1>Welcome</h1>
-        <p>Hi</p>
-        <p>Test</p>
-        <p>Hej</p>
+
         
         
         

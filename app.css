@@ -9,6 +9,10 @@
     body{
         background-color: #eddbc7;
     }
+
+    .info_container h1{
+        color: blue;
+    }
 }
 
 /* LAYOUT FOR TABLET */
