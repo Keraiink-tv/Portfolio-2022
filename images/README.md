@@ -25,4 +25,6 @@ To understand it this is what it means:
 
 Which makes a lot more sense, remember to write it down in your notes dummy.
 
+- 00:35 Added a new color to test if css is working
+
 
